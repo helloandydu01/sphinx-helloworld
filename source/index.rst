@@ -8,7 +8,7 @@ C++语法笔记
 .. toctree::
    :maxdepth: 2
    
-   docs/第1章-视频演示/index
+   docs/Chapt1-hello/index
 
 
 README
