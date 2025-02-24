@@ -1,9 +1,19 @@
-Sphinx 演示
-===================================================================
+.. cpp_dictionary documentation master file, created by
+   sphinx-quickstart on Wed Jul  7 09:42:42 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-.. warning::
-   这是一个警告
+C++语法笔记
+=================================
+.. toctree::
+   :maxdepth: 2
+   
+   docs/第1章-视频演示/index
 
 
-.. code-block:: bash
-   $ # 这是一个shell
+README
+=================================
+.. toctree::
+   :maxdepth: 2
+
+   docs/README

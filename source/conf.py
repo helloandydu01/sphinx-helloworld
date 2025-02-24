@@ -6,10 +6,12 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Sphinx HelloWorld'
-copyright = '2025, andy'
-author = 'andy'
+project = 'STM32GUI Wiki Test'
+copyright = '2025, Andy'
+author = 'TOMOCAT'
 
+# The full version, including alpha/beta/rc tags
+release = 'v1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
@@ -18,6 +20,7 @@ extensions = [
 ]
 
 templates_path = ['_templates']
+language = 'zh_CN'
 exclude_patterns = []
 
 
